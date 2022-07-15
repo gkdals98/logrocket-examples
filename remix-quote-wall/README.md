@@ -4,6 +4,10 @@ This example code is copy of this article - <https://blog.logrocket.com/handling
 
 - [Remix Docs](https://remix.run/docs)
 
+## For What?
+
+To Learn how handling authentication in remix.
+
 ## To Start
 
 To Start, you need to exec bellow
